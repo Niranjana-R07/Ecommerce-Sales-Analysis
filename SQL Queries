@@ -1,0 +1,55 @@
+create database ecommerce;
+use ecommerce;
+CREATE TABLE ecommerce_sales (
+    Order_Date DATE,
+    Product_Name VARCHAR(100),
+    Category VARCHAR(50),
+    Region VARCHAR(50),
+    Quantity INT,
+    Sales DECIMAL(10,2),
+    Profit DECIMAL(10,2)
+);
+
+CREATE TABLE best_selling_products AS
+SELECT Product_Name,
+       SUM(Sales) AS Total_Sales
+FROM ecommerce_sales
+GROUP BY Product_Name
+ORDER BY Total_Sales DESC
+LIMIT 10;
+
+CREATE TABLE region_profit AS
+SELECT Region,
+       SUM(Profit) AS Total_Profit
+FROM ecommerce_sales
+GROUP BY Region
+ORDER BY Total_Profit DESC;
+
+CREATE TABLE category_performance AS
+SELECT Category,
+       SUM(Sales) AS Total_Sales,
+       SUM(Profit) AS Total_Profit
+FROM ecommerce_sales
+GROUP BY Category
+ORDER BY Total_Sales DESC;
+
+
+CREATE TABLE monthly_sales_trend AS
+SELECT Category,
+       SUM(Sales) AS Total_Sales,
+       SUM(Profit) AS Total_Profit
+FROM ecommerce_sales
+GROUP BY Category
+ORDER BY Total_Sales DESC;
+
+
+CREATE TABLE product_profit_margin
+SELECT Product_Name,
+       ROUND((SUM(Profit)/SUM(Sales))*100,2) AS Profit_Margin
+FROM ecommerce_sales
+GROUP BY Product_Name
+ORDER BY Profit_Margin DESC
+LIMIT 10;
+
+
+
