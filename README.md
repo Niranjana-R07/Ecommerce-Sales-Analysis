@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Sales Analytics Dashboard
+#  E-Commerce Sales Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The E-Commerce Sales Analytics Dashboard is an end-to-end Data Analytics project designed to analyze sales performance, profitability, product trends, and regional business performance. The project demonstrates the complete analytics workflow, from data storage and querying to exploratory data analysis and interactive dashboard development.
 
@@ -8,7 +8,7 @@ Using SQL, Python, Excel, and Power BI, raw e-commerce sales data was transforme
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze overall sales and profitability performance.
 - Identify top-performing products and categories.
@@ -19,7 +19,7 @@ Using SQL, Python, Excel, and Power BI, raw e-commerce sales data was transforme
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 ### Programming & Analysis
 - Python
@@ -38,7 +38,7 @@ Using SQL, Python, Excel, and Power BI, raw e-commerce sales data was transforme
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Storage & Querying
 
@@ -115,7 +115,7 @@ The cleaned dataset was imported into Power BI and transformed into an interacti
 
 ---
 
-# 📊 Dashboard Pages
+#  Dashboard Pages
 
 ---
 
@@ -208,7 +208,7 @@ Summarizes analytical findings and business recommendations.
 
 ---
 
-# 📈 Key Outcomes
+#  Key Outcomes
 
 ✅ Stored and managed data using SQL
 
@@ -228,25 +228,21 @@ Summarizes analytical findings and business recommendations.
 
 # 📷 Dashboard Screenshots
 
-### E-Commerce Analytics Dashboard
+## Executive Overview
+![Executive Overview](Images/dashboard.jpeg)
 
-(Add Dashboard Screenshot Here)
+## Product Analysis
+![Product Analysis](Images/product_analysis.jpeg)
 
-### Product Analysis Dashboard
+## Regional Analysis
+![Regional Analysis](Images/regional_analysis.jpeg)
 
-(Add Product Analysis Screenshot Here)
-
-### Regional Analysis Dashboard
-
-(Add Regional Analysis Screenshot Here)
-
-### Executive Insights & Recommendations
-
-(Add Executive Insights Screenshot Here)
+## Executive Insights
+![Executive Insights](Images/executive_insights.jpeg)
 
 ---
 
-# 💼 Business Impact
+#  Business Impact
 
 This project demonstrates the practical application of Data Analytics techniques to solve business problems. By combining SQL, Python, Excel, and Power BI, the solution provides valuable insights into sales performance, profitability, customer demand, and regional trends.
 
@@ -260,23 +256,10 @@ The dashboard enables stakeholders to:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Niranjana R**
 
 **B.Tech – Artificial Intelligence and Data Science**
 
-### Skills Demonstrated
 
-- Data Cleaning
-- Data Analysis
-- SQL Querying
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Intelligence
-- Dashboard Development
-- Power BI Reporting
-
----
-
-⭐ If you found this project useful, feel free to star this repository.
