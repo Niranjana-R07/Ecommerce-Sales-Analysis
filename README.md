@@ -40,7 +40,7 @@ Using SQL, Python, Excel, and Power BI, raw e-commerce sales data was transforme
 
 ##  Project Workflow
 
-### 1 Data Storage & Querying
+### 1. Data Storage & Querying
 
 The raw e-commerce sales dataset was imported into a SQL database for structured storage and efficient querying.
 
@@ -58,7 +58,7 @@ The raw e-commerce sales dataset was imported into a SQL database for structured
 
 ---
 
-### 2 Data Cleaning & Preparation
+### 2. Data Cleaning & Preparation
 
 The dataset was cleaned and transformed before analysis and visualization.
 
@@ -83,7 +83,7 @@ The dataset was cleaned and transformed before analysis and visualization.
 
 ---
 
-### 3 Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis was performed using Python libraries and Sweetviz to understand business patterns and data quality.
 
@@ -101,7 +101,7 @@ Exploratory Data Analysis was performed using Python libraries and Sweetviz to u
 
 ---
 
-### 4 Dashboard Development
+### 4. Dashboard Development
 
 The cleaned dataset was imported into Power BI and transformed into an interactive dashboard consisting of four analytical pages.
 
