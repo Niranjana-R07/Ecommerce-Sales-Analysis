@@ -210,19 +210,19 @@ Summarizes analytical findings and business recommendations.
 
 #  Key Outcomes
 
-✅ Stored and managed data using SQL
+ Stored and managed data using SQL
 
-✅ Performed data cleaning and preprocessing
+ Performed data cleaning and preprocessing
 
-✅ Conducted Exploratory Data Analysis (EDA) using Python
+ Conducted Exploratory Data Analysis (EDA) using Python
 
-✅ Generated automated analytical reports using Sweetviz
+ Generated automated analytical reports using Sweetviz
 
-✅ Built an interactive Power BI dashboard
+ Built an interactive Power BI dashboard
 
-✅ Analyzed sales, profit, products, and regional performance
+ Analyzed sales, profit, products, and regional performance
 
-✅ Derived actionable business insights and recommendations
+ Derived actionable business insights and recommendations
 
 ---
 
