@@ -240,6 +240,7 @@ Summarizes analytical findings and business recommendations.
 ## Executive Insights
 ![Executive Insights](Images/executive_insights.jpeg)
 
+
 ---
 
 #  Business Impact
