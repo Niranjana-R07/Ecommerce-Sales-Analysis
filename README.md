@@ -226,23 +226,6 @@ Summarizes analytical findings and business recommendations.
 
 ---
 
-# 📷 Dashboard Screenshots
-
-## Executive Overview
-![Executive Overview](Images/dashboard.jpeg)
-
-## Product Analysis
-![Product Analysis](Images/product_analysis.jpeg)
-
-## Regional Analysis
-![Regional Analysis](Images/regional_analysis.jpeg)
-
-## Executive Insights
-![Executive Insights](Images/executive_insights.jpeg)
-
-
----
-
 #  Business Impact
 
 This project demonstrates the practical application of Data Analytics techniques to solve business problems. By combining SQL, Python, Excel, and Power BI, the solution provides valuable insights into sales performance, profitability, customer demand, and regional trends.
